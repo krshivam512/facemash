@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    margin-top: 4px;
+}
+
+table.facemash ,td.facemash ,th.facemash 
+{
+    width: 100%;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+th.facemash {
+    height: 50px;
+    background-color: darkred;
+    font-size: xx-large;
+    letter-spacing: 1px;
+    color: gray;
+}
+
+td.facemash {
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+}
+
+p.center {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+p.right {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+p.main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
